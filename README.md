@@ -6,7 +6,7 @@
 
 ## Project Description
 
-***    A first person game where the player is playing as the infamous "cocaine bear". The bear is placed on a moving background and will try to hit as many piles of cocaine as possible, with each bag of cocaine eaten giving a point. As the bear is running it will confront by hunters and if it goes to close to the hunter it will be shot and killed. In order to win the player must aquire 50 bags of cocaine (50 points) while not coming into contact with the hunter. Whether the player wins or lose they will have a chance to play again or close out of the screen. The player only needs to you the left and right keys on the keyboard to play the game.
+***    A first person game where the player is playing as the infamous "cocaine bear". The bear is placed on a moving background and will try to hit as many piles of cocaine as possible, with each bag of cocaine eaten giving a point. As the bear is running it will confront by hunters and if it goes to close to the hunter it will be shot and killed. In order to get to the next level the player must aquire 10 bags of cocaine (10 points) while not coming into contact with the hunter. If the player makes it on to the next round then the amount of bags they collect incrases by 10 and so on. Whether the player wins or lose they will have a chance to play again or close out of the screen. The player only needs to you the left and right keys on the keyboard to play the game.
 
 ## Additional Modules
 pygame_menu https://pygame-menu.readthedocs.io/en/4.4.2/ 
