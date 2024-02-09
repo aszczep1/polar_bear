@@ -1,8 +1,7 @@
 
 #  COCAINE BEAR: The Video Game 
-## CS110 Final Project  Spring, 2023 
 
-## Alex Szczepanski and Michael Sternbach 
+## Built by: Alex Szczepanski and Michael Sternbach 
 
 ## Project Description
 
@@ -36,5 +35,3 @@ pygame_menu https://pygame-menu.readthedocs.io/en/4.4.2/
 - Points Class - Initializes the coke/hunter oject by providing the height, width, x, y coordinates, and the picture of the coke/hunter. It also adjusts their position so they can move down the screen. 
 - Background Class - Initializes the tree ojects by providing the height, width, x, y coordinates, and the picture of the tree. It also adjusts their position so they can move down the screen. 
 
-### Class Design
-![class design](assets/classdiagram.png)
